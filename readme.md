@@ -1,12 +1,35 @@
-![Profile Views](https://komarev.com/ghpvc/?username=mykytatishkin)
-<img width="1470" height="980" alt="image" src="https://github.com/user-attachments/assets/7139d98f-9c24-4029-9090-e1265223a2e9" />
+![Profile Views](https://komarev.com/ghpvc/?username=mykytatishkin&style=for-the-badge&color=193549&label=PROFILE+VIEWS)
+<img width="1470" height="980" alt="image" src="img/Dreamcore Windows Sky Meadow.png" />
 
-# 💻 Tech Stack:
-![Apache Groovy](https://img.shields.io/badge/Apache%20Groovy-4298B8.svg?style=for-the-badge&logo=Apache+Groovy&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+# Java Cloud Engineer
+
+<p>
+  <img src="https://img.shields.io/badge/Java-21%2B-193549?style=for-the-badge&logo=openjdk&logoColor=FFC600" alt="Java" />
+  <img src="https://img.shields.io/badge/Kotlin-193549?style=for-the-badge&logo=kotlin&logoColor=FFC600" alt="Kotlin" />
+  <img src="https://img.shields.io/badge/Spring%20Boot-193549?style=for-the-badge&logo=springboot&logoColor=FFC600" alt="Spring Boot" />
+  <img src="https://img.shields.io/badge/Gradle-193549?style=for-the-badge&logo=gradle&logoColor=FFC600" alt="Gradle" />
+  <img src="https://img.shields.io/badge/Maven-193549?style=for-the-badge&logo=apachemaven&logoColor=FFC600" alt="Maven" />
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/AWS-193549?style=for-the-badge&logo=amazonaws&logoColor=FFC600" alt="AWS" />
+  <img src="https://img.shields.io/badge/Docker-193549?style=for-the-badge&logo=docker&logoColor=FFC600" alt="Docker" />
+  <img src="https://img.shields.io/badge/Kubernetes-193549?style=for-the-badge&logo=kubernetes&logoColor=FFC600" alt="Kubernetes" />
+  <img src="https://img.shields.io/badge/Terraform-193549?style=for-the-badge&logo=terraform&logoColor=FFC600" alt="Terraform" />
+  <img src="https://img.shields.io/badge/GitHub%20Actions-193549?style=for-the-badge&logo=githubactions&logoColor=FFC600" alt="GitHub Actions" />
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/PostgreSQL-193549?style=for-the-badge&logo=postgresql&logoColor=FFC600" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/Redis-193549?style=for-the-badge&logo=redis&logoColor=FFC600" alt="Redis" />
+  <img src="https://img.shields.io/badge/Apache%20Kafka-193549?style=for-the-badge&logo=apachekafka&logoColor=FFC600" alt="Apache Kafka" />
+  <img src="https://img.shields.io/badge/Prometheus-193549?style=for-the-badge&logo=prometheus&logoColor=FFC600" alt="Prometheus" />
+  <img src="https://img.shields.io/badge/Grafana-193549?style=for-the-badge&logo=grafana&logoColor=FFC600" alt="Grafana" />
+</p>
 # 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=therenowhale&theme=buefy&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://streak-stats.demolab.com/?user=therenowhale&theme=buefy&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=therenowhale&theme=buefy&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.shion.dev/api?username=therenowhale&theme=cobalt2&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://streak-stats.demolab.com/?user=therenowhale&theme=cobalt2&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=therenowhale&theme=cobalt2&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=therenowhale&theme=swift&no-frame=false&no-bg=false&margin-w=4)
