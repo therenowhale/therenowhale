@@ -26,10 +26,14 @@
   <img src="https://img.shields.io/badge/Prometheus-193549?style=for-the-badge&logo=prometheus&logoColor=FFC600" alt="Prometheus" />
   <img src="https://img.shields.io/badge/Grafana-193549?style=for-the-badge&logo=grafana&logoColor=FFC600" alt="Grafana" />
 </p>
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=therenowhale&theme=cobalt2&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://streak-stats.demolab.com/?user=therenowhale&theme=cobalt2&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=therenowhale&theme=cobalt2&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+# 📊 GitHub Stats
+
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=therenowhale&show_icons=true&hide_border=true&bg_color=193549&title_color=FFC600&text_color=FFFFFF&icon_color=FFC600&include_all_commits=true" alt="GitHub stats" />
+  <img src="https://streak-stats.demolab.com?user=therenowhale&hide_border=true&background=193549&ring=FFC600&fire=FFC600&currStreakLabel=FFFFFF&sideLabels=FFFFFF&dates=FFFFFF&sideNums=FFFFFF&currStreakNum=FFFFFF" alt="GitHub streak" />
+</p>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=therenowhale&hide_border=true&bg_color=193549&title_color=FFC600&text_color=FFFFFF&layout=compact" alt="Top languages" />
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=therenowhale&theme=swift&no-frame=false&no-bg=false&margin-w=4)
