@@ -1,9 +1,9 @@
 <p align="center">
-  <img src="img/identity/hero.png" width="1200" alt="Mihkihtah — There No Whale. Java, Cloud and creative engineering." />
+  <img src="img/identity/hero.png" width="1200" alt="THERE NO WHALE — independent engineering and creative experiments. By Mihkihtah." />
 </p>
 
-<p align="center"><strong>Mihkihtah · Java Cloud Engineer</strong></p>
-<p align="center">Backend systems, cloud infrastructure and independent products.<br />Learning by building. Sharing the process.</p>
+<p align="center"><strong>THERE NO WHALE</strong> · by Mihkihtah</p>
+<p align="center">Java / Cloud / Independent products.<br />Question assumptions. Build things. Share the process.</p>
 
 <p align="center">
   <a href="https://github.com/therenowhale?tab=repositories"><img src="img/identity/projects.svg" width="320" alt="Explore my projects ↗" /></a>
@@ -12,11 +12,15 @@
 
 <br />
 
+![Material studies — a sculpted metallic sun, orange macro textures against blue, and a retro green screen embedded in limestone.](img/identity/material-studies.png)
+
+<br />
+
 ![Engineering toolkit: Java 21+, Kotlin, Spring Boot, Maven and Gradle; AWS, Kubernetes, Docker, Terraform and GitHub Actions; PostgreSQL, Redis, Kafka, Prometheus and Grafana.](img/identity/toolkit.svg)
 
 <br />
 
-### In the lab
+### SOFTWARE / EXPERIMENTS / PEOPLE
 
 <p>
   <a href="https://github.com/swagalabs"><img src="img/identity/project-swagalabs.svg" width="49%" alt="Swaga Labs — independent products and shared curiosity." /></a>

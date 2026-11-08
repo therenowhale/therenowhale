@@ -4,9 +4,9 @@ from html import escape
 root = Path(__file__).parent
 assets = root/'img/identity'
 assets.mkdir(parents=True, exist_ok=True)
-cream, orange, ink, green = '#F4F0E6', '#FF4D00', '#11120F', '#183729'
+cream, orange, ink, green = '#F4F0E6', '#FF4D00', '#11120F', '#141414'
 def text(x,y,label,size=20,color=ink,serif=False,extra=''):
-    font='Georgia, Times New Roman, serif' if serif else 'Arial, Helvetica, sans-serif'
+    font='Arial Black, Arial, Helvetica, sans-serif' if serif else 'Arial, Helvetica, sans-serif'
     return f'<text x="{x}" y="{y}" fill="{color}" font-size="{size}" font-family="{font}" {extra}>{escape(label)}</text>'
 def svg(name,h,body,bg=cream,w=1200):
     (assets/name).write_text(f'<svg xmlns="http://www.w3.org/2000/svg" width="{w}" height="{h}" viewBox="0 0 {w} {h}"><rect width="{w}" height="{h}" fill="{bg}"/>{body}</svg>')
@@ -21,7 +21,7 @@ for i,(title,items) in enumerate(groups):
     x=40+i*390
     b+=text(x,193,title,16,orange,extra='letter-spacing="1.5"')
     for j,item in enumerate(items):b+=text(x,239+j*39,item,23)
-svg('toolkit.svg',365,b)
+svg('toolkit.svg',365,b,'#26A3D5')
 
 b=text(40,38,'02 / HOW I LEARN',15,cream,extra='letter-spacing="2"')
 b+=text(40,119,'Understanding is earned by doing.',51,orange,True)
@@ -52,7 +52,7 @@ for x,y,w,title,caption in nodes:
 b+=f'<path d="M290 154H475M725 154H910M600 208V260" stroke="{orange}" stroke-width="3" fill="none"/>'
 b+=text(335,140,'publish',13)+text(785,140,'persist',13)+text(620,240,'deploy & operate',13)
 b+=text(40,409,'A conceptual toolkit map — project architecture depends on the problem.',17)
-svg('systems.svg',445,b)
+svg('systems.svg',445,b,'#26A3D5')
 
 b=text(40,40,'04 / THE PRINCIPLE',15,cream,extra='letter-spacing="2"')
 b+=text(40,120,'No single authority.',64,orange,True)+text(40,191,'Keep asking why.',64,cream,True)
@@ -60,4 +60,4 @@ b+=text(40,252,'Experiment. Read the source. Form your own understanding.',21,cr
 svg('manifesto.svg',295,b,ink)
 
 star='<path d="M256 70Q270 242 442 256Q270 270 256 442Q242 270 70 256Q242 242 256 70Z" fill="#F4F0E6"/>'
-svg('avatar.svg',512,star,orange,512)
+svg('avatar.svg',512,star,ink,512)
