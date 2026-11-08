@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="img/identity/hero.png" width="1200" alt="THERE NO WHALE — independent engineering and creative experiments. By Mihkihtah." />
+  <img src="img/identity/there-no-whale-stone-signal.png" width="1200" alt="THERE NO WHALE — independent engineering and creative experiments. By Mihkihtah." />
 </p>
 
 <p align="center"><strong>THERE NO WHALE</strong> · by Mihkihtah</p>
