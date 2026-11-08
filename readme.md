@@ -1,40 +1,57 @@
-![Profile Views](https://komarev.com/ghpvc/?username=mykytatishkin&style=for-the-badge&color=193549&label=PROFILE+VIEWS)
-<img width="1470" height="980" alt="image" src="img/Dreamcore Windows Sky Meadow.png" />
-
-# Java Cloud Engineer
-
-<p>
-  <img src="https://img.shields.io/badge/Java-21%2B-193549?style=for-the-badge&logo=openjdk&logoColor=FFC600" alt="Java" />
-  <img src="https://img.shields.io/badge/Kotlin-193549?style=for-the-badge&logo=kotlin&logoColor=FFC600" alt="Kotlin" />
-  <img src="https://img.shields.io/badge/Spring%20Boot-193549?style=for-the-badge&logo=springboot&logoColor=FFC600" alt="Spring Boot" />
-  <img src="https://img.shields.io/badge/Gradle-193549?style=for-the-badge&logo=gradle&logoColor=FFC600" alt="Gradle" />
-  <img src="https://img.shields.io/badge/Maven-193549?style=for-the-badge&logo=apachemaven&logoColor=FFC600" alt="Maven" />
+<p align="center">
+  <img src="img/identity/hero.png" width="1200" alt="Mihkihtah — There No Whale. Java, Cloud and creative engineering." />
 </p>
 
-<p>
-  <img src="https://img.shields.io/badge/AWS-193549?style=for-the-badge&logo=amazonaws&logoColor=FFC600" alt="AWS" />
-  <img src="https://img.shields.io/badge/Docker-193549?style=for-the-badge&logo=docker&logoColor=FFC600" alt="Docker" />
-  <img src="https://img.shields.io/badge/Kubernetes-193549?style=for-the-badge&logo=kubernetes&logoColor=FFC600" alt="Kubernetes" />
-  <img src="https://img.shields.io/badge/Terraform-193549?style=for-the-badge&logo=terraform&logoColor=FFC600" alt="Terraform" />
-  <img src="https://img.shields.io/badge/GitHub%20Actions-193549?style=for-the-badge&logo=githubactions&logoColor=FFC600" alt="GitHub Actions" />
+<p align="center"><strong>Mihkihtah · Java Cloud Engineer</strong></p>
+<p align="center">Backend systems, cloud infrastructure and independent products.<br />Learning by building. Sharing the process.</p>
+
+<p align="center">
+  <a href="https://github.com/therenowhale?tab=repositories"><img src="img/identity/projects.svg" width="320" alt="Explore my projects ↗" /></a>
+  <a href="https://github.com/swagalabs"><img src="img/identity/labs.svg" width="320" alt="Swaga Labs ↗" /></a>
 </p>
 
-<p>
-  <img src="https://img.shields.io/badge/PostgreSQL-193549?style=for-the-badge&logo=postgresql&logoColor=FFC600" alt="PostgreSQL" />
-  <img src="https://img.shields.io/badge/Redis-193549?style=for-the-badge&logo=redis&logoColor=FFC600" alt="Redis" />
-  <img src="https://img.shields.io/badge/Apache%20Kafka-193549?style=for-the-badge&logo=apachekafka&logoColor=FFC600" alt="Apache Kafka" />
-  <img src="https://img.shields.io/badge/Prometheus-193549?style=for-the-badge&logo=prometheus&logoColor=FFC600" alt="Prometheus" />
-  <img src="https://img.shields.io/badge/Grafana-193549?style=for-the-badge&logo=grafana&logoColor=FFC600" alt="Grafana" />
-</p>
-# 📊 GitHub Stats
+<br />
+
+![Engineering toolkit: Java 21+, Kotlin, Spring Boot, Maven and Gradle; AWS, Kubernetes, Docker, Terraform and GitHub Actions; PostgreSQL, Redis, Kafka, Prometheus and Grafana.](img/identity/toolkit.svg)
+
+<br />
+
+### In the lab
 
 <p>
-  <img src="https://github-readme-stats.vercel.app/api?username=therenowhale&show_icons=true&hide_border=true&bg_color=193549&title_color=FFC600&text_color=FFFFFF&icon_color=FFC600&include_all_commits=true" alt="GitHub stats" />
-  <img src="https://streak-stats.demolab.com?user=therenowhale&hide_border=true&background=193549&ring=FFC600&fire=FFC600&currStreakLabel=FFFFFF&sideLabels=FFFFFF&dates=FFFFFF&sideNums=FFFFFF&currStreakNum=FFFFFF" alt="GitHub streak" />
+  <a href="https://github.com/swagalabs"><img src="img/identity/project-swagalabs.svg" width="49%" alt="Swaga Labs — independent products and shared curiosity." /></a>
+  <a href="https://swagalabs.github.io/murhub.docs/"><img src="img/identity/project-murhub.svg" width="49%" alt="Murhub — beauty, people and discovery." /></a>
 </p>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=therenowhale&hide_border=true&bg_color=193549&title_color=FFC600&text_color=FFFFFF&layout=compact" alt="Top languages" />
+<p align="center"><img src="img/identity/project-whale.svg" width="580" alt="There No Whale — learn in public and think for yourself. Java, practice and community." /></p>
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=therenowhale&theme=swift&no-frame=false&no-bg=false&margin-w=4)
+| Project | What I'm exploring |
+| :--- | :--- |
+| [Swaga Labs](https://github.com/swagalabs) | Building independent products together. |
+| [Murhub](https://swagalabs.github.io/murhub.docs/) | Connecting people with beauty professionals through their work and individual style. |
+| There No Whale | Hands-on Java learning, engineering experiments and sharing what I discover. |
 
+<br />
+
+![Conceptual systems map: Java, Kotlin and Spring applications publish Kafka events and persist data in PostgreSQL or Redis. AWS and Kubernetes provide a platform to deploy and operate applications.](img/identity/systems.svg)
+
+<br />
+
+![How I learn: Build — start with an experiment. Observe — look at what happens. Explain — understand why it works.](img/identity/learning.svg)
+
+<details>
+<summary>Behind the experiments</summary>
+
+I like understanding what happens underneath an abstraction. I learn by building a small experiment, inspecting the result and explaining it in my own words.
+
+There No Whale is a place to question assumptions and learn alongside other developers. The process matters: the mistakes, the working code and the understanding that comes from both.
+
+</details>
+
+<br />
+
+![No single authority. Keep asking why. Experiment, read the source and form your own understanding.](img/identity/manifesto.svg)
+
+<br />
+
+![Stay curious. Make things. — There No Whale](img/identity/footer.svg)
