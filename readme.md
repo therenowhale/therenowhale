@@ -47,26 +47,18 @@ Small experiments make abstractions tangible. Build something, inspect what happ
 
 ![Understanding is earned by doing. 01 Build — Start with an experiment. 02 Observe — Look at what happens. 03 Explain — Understand why it works.](img/editorial/process.png)
 
-<p align="center"><img src="img/editorial/deco.png" width="180" alt="" /></p>
-
 ## In the lab
 
-![03 / In the lab — Selected projects](img/editorial/divider-lab.png)
-
-<a href="https://github.com/swagalabs"><img src="img/editorial/project-swaga.png" width="1400" alt="Swaga Labs — independent products and shared curiosity. A shared space for building products and engineering experiments together." /></a>
-
-<br />
-
-<a href="https://swagalabs.github.io/murhub.docs/"><img src="img/editorial/project-murhub.png" width="1400" alt="Murhub — Beauty. People. Discovery. Helping people discover beauty professionals through their work and individual style. Kotlin and product engineering." /></a>
-
 <p align="center">
-  <a href="https://swagalabs.github.io/murhub-api/"><img src="img/editorial/button-api.png" width="36%" alt="Murhub API reference ↗" /></a>
-  <a href="https://swagalabs.github.io/murhub.docs/"><img src="img/editorial/button-interface.png" width="36%" alt="Explore the Murhub interface ↗" /></a>
+  <a href="https://github.com/swagalabs"><img src="img/editorial/compact-swagalabs.png" width="760" alt="Swaga Labs — independent products and engineering experiments." /></a>
 </p>
-
-<br />
-
-<a href="https://github.com/therenowhale?tab=repositories"><img src="img/editorial/project-whale.png" width="1400" alt="@therenowhale — Learning in public. Build. Question. Share. Backend experiments, working code and lessons from the process." /></a>
+<p align="center">
+  <a href="https://swagalabs.github.io/murhub.docs/"><img src="img/editorial/compact-murhub.png" width="760" alt="Murhub — discover beauty professionals through their work." /></a><br />
+  <a href="https://swagalabs.github.io/murhub-api/">API reference ↗</a> &nbsp; · &nbsp; <a href="https://swagalabs.github.io/murhub.docs/">Explore the UI ↗</a>
+</p>
+<p align="center">
+  <a href="https://github.com/therenowhale?tab=repositories"><img src="img/editorial/compact-whale.png" width="760" alt="There No Whale — backend experiments. Learn, build and share." /></a>
+</p>
 
 <details>
 <summary>Project notes</summary>

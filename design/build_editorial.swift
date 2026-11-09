@@ -56,4 +56,28 @@ canvas("colophon",1400,180,ink) {
     text("QUESTION ASSUMPTIONS.",34,105,42,ivory,bold:true);text("BUILD THINGS. SHARE THE PROCESS.",36,54,24,orange,bold:true)
     text("@therenowhale / Mihkihtah",1030,31,19,ivory);star(1325,119,28,orange)
 }
+for (name,title,caption,index) in [
+    ("compact-swagalabs","Swaga Labs","Independent products & engineering experiments.",0),
+    ("compact-murhub","Murhub","Discover beauty professionals through their work.",1),
+    ("compact-whale","There No Whale","Backend experiments. Learn, build and share.",2)
+] {
+    canvas(name,1000,156,ink) {
+        rect(0,0,3,156,orange)
+        let border = NSBezierPath(rect:NSRect(x:0.5,y:0.5,width:999,height:155));NSColor(white:0.22,alpha:1).setStroke();border.lineWidth=1;border.stroke()
+        if index == 0 {
+            NSGraphicsContext.saveGraphicsState()
+            let transform = NSAffineTransform();transform.translateX(by:76,yBy:78);transform.concat()
+            for i in 0..<6 {
+                NSGraphicsContext.saveGraphicsState();let rotate = NSAffineTransform();rotate.rotate(byDegrees:CGFloat(i*60));rotate.concat()
+                let p = NSBezierPath();p.move(to:NSPoint(x:14,y:-8.083));p.line(to:NSPoint(x:42,y:-8.083));p.line(to:NSPoint(x:42,y:8.083));p.line(to:NSPoint(x:14,y:8.083));p.line(to:NSPoint(x:9.333,y:0));p.close();orange.setFill();p.fill();NSGraphicsContext.restoreGraphicsState()
+            }
+            NSGraphicsContext.restoreGraphicsState()
+        } else if index == 1 {
+            rect(37,39,78,78,orange);text("m",49,46,60,ink,bold:true)
+        } else { star(76,78,42,orange) }
+        text(title,150,86,32,ivory,bold:true)
+        text(caption,150,43,21,NSColor(white:0.69,alpha:1))
+        text("↗",928,58,32,orange)
+    }
+}
 print("Exported editorial PNG controls and infographics.")

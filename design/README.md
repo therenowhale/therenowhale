@@ -14,7 +14,8 @@ The layout follows a magazine: masthead, cover, navigation, three feature cards,
 | --- | --- |
 | `cover.png` | Profile cover |
 | `engineering.png`, `experiments.png`, `lab.png` | Linked feature cards |
-| `project-*.png` | Wide linked project features |
+| `compact-*.png` | Active compact linked project cards |
+| `project-*.png` | Archived wide project artwork, no longer displayed |
 | `deco.png` | Transparent decorative starburst |
 | `button-*.png` | Source code, Swaga Labs, Murhub navigation |
 | `divider-*.png` | Section numbering and labels |
