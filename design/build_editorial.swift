@@ -23,7 +23,7 @@ func canvas(_ name: String, _ w: Int, _ h: Int, _ bg: NSColor, _ body: () -> Voi
     rect(0,0,CGFloat(w),CGFloat(h),bg);body();NSGraphicsContext.restoreGraphicsState()
     try! rep.representation(using:.png,properties:[:])!.write(to:root.appendingPathComponent(name+".png"))
 }
-for (name,label,n) in [("button-code","SOURCE CODE","01"),("button-labs","SWAGA LABS","02"),("button-murhub","MURHUB / UI","03")] {
+for (name,label,n) in [("button-code","SOURCE CODE","01"),("button-labs","SWAGA LABS","02"),("button-murhub","MURHUB / UI","03"),("button-api","API REFERENCE","↗"),("button-interface","EXPLORE THE UI","↗")] {
     canvas(name,600,112,orange) {
         text(n,24,45,16,ink);text(label,75,39,27,ink,bold:true);text("↗",538,32,38,ink)
         line(24,20,552,ink)
@@ -55,8 +55,5 @@ canvas("process",1400,285,orange) {
 canvas("colophon",1400,180,ink) {
     text("QUESTION ASSUMPTIONS.",34,105,42,ivory,bold:true);text("BUILD THINGS. SHARE THE PROCESS.",36,54,24,orange,bold:true)
     text("@therenowhale / Mihkihtah",1030,31,19,ivory);star(1325,119,28,orange)
-}
-canvas("waterline",1400,42,blue) {
-    for i in 0..<22 {star(CGFloat(i*67+15),21,8,ivory)}
 }
 print("Exported editorial PNG controls and infographics.")

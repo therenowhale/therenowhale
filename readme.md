@@ -53,22 +53,32 @@ Small experiments make abstractions tangible. Build something, inspect what happ
 
 ![03 / In the lab — Selected projects](img/editorial/divider-lab.png)
 
-### [Swaga Labs ↗](https://github.com/swagalabs)
-
-A shared space for independent products and engineering experiments. Building things together, from a first idea to working software.
-
-### [Murhub ↗](https://swagalabs.github.io/murhub.docs/)
-
-Helping people discover beauty professionals through their work and individual style. Kotlin, product engineering and a lot of questions worth testing.
-
-[API reference](https://swagalabs.github.io/murhub-api/) · [Interface explorations](https://swagalabs.github.io/murhub.docs/)
-
-### There No Whale
-
-Learning backend engineering in public: experiments, working code and lessons from the process. A place to question assumptions and learn alongside other developers.
+<a href="https://github.com/swagalabs"><img src="img/editorial/project-swaga.png" width="1400" alt="Swaga Labs — independent products and shared curiosity. A shared space for building products and engineering experiments together." /></a>
 
 <br />
 
-![Decorative blue waterline](img/editorial/waterline.png)
+<a href="https://swagalabs.github.io/murhub.docs/"><img src="img/editorial/project-murhub.png" width="1400" alt="Murhub — Beauty. People. Discovery. Helping people discover beauty professionals through their work and individual style. Kotlin and product engineering." /></a>
+
+<p align="center">
+  <a href="https://swagalabs.github.io/murhub-api/"><img src="img/editorial/button-api.png" width="36%" alt="Murhub API reference ↗" /></a>
+  <a href="https://swagalabs.github.io/murhub.docs/"><img src="img/editorial/button-interface.png" width="36%" alt="Explore the Murhub interface ↗" /></a>
+</p>
+
+<br />
+
+<a href="https://github.com/therenowhale?tab=repositories"><img src="img/editorial/project-whale.png" width="1400" alt="@therenowhale — Learning in public. Build. Question. Share. Backend experiments, working code and lessons from the process." /></a>
+
+<details>
+<summary>Project notes</summary>
+
+**Swaga Labs:** a shared space for independent products and engineering experiments, from a first idea to working software.
+
+**Murhub:** helping people discover beauty professionals through their work and individual style. Kotlin, product engineering and questions worth testing.
+
+**There No Whale:** learning backend engineering in public through experiments, working code and sharing lessons alongside other developers.
+
+</details>
+
+<br />
 
 ![Question assumptions. Build things. Share the process. @therenowhale / Mihkihtah](img/editorial/colophon.png)

@@ -14,10 +14,11 @@ The layout follows a magazine: masthead, cover, navigation, three feature cards,
 | --- | --- |
 | `cover.png` | Profile cover |
 | `engineering.png`, `experiments.png`, `lab.png` | Linked feature cards |
+| `project-*.png` | Wide linked project features |
 | `deco.png` | Transparent decorative starburst |
 | `button-*.png` | Source code, Swaga Labs, Murhub navigation |
 | `divider-*.png` | Section numbering and labels |
-| `masthead.png`, `colophon.png`, `waterline.png` | Editorial framing |
+| `masthead.png`, `colophon.png` | Editorial framing |
 | `toolkit.png`, `process.png` | Precise informational graphics |
 
 The five artwork assets were created with image generation. The other PNGs contain precisely typeset information and can be rebuilt on macOS from the repository root:
