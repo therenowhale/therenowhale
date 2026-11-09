@@ -1,61 +1,74 @@
+<p align="center"><img src="img/editorial/masthead.png" width="1400" alt="There No Whale — Independent Engineering Journal. By Mihkihtah." /></p>
+
+<p align="center"><img src="img/editorial/cover.png" width="1400" alt="@therenowhale — gothic lettering, a sculpted sun, ice and water. Independent engineering with a creative point of view." /></p>
+
+<p align="center"><strong>Java / Kotlin / Cloud</strong><br />Independent products. Hands-on experiments. Thinking for yourself.</p>
+
 <p align="center">
-  <img src="img/identity/there-no-whale-stone-signal.png" width="1200" alt="THERE NO WHALE — independent engineering and creative experiments. By Mihkihtah." />
+  <a href="https://github.com/therenowhale?tab=repositories"><img src="img/editorial/button-code.png" width="31%" alt="Explore my source code ↗" /></a>
+  <a href="https://github.com/swagalabs"><img src="img/editorial/button-labs.png" width="31%" alt="Visit Swaga Labs ↗" /></a>
+  <a href="https://swagalabs.github.io/murhub.docs/"><img src="img/editorial/button-murhub.png" width="31%" alt="Explore the Murhub interface ↗" /></a>
 </p>
 
-<p align="center"><strong>THERE NO WHALE</strong> · by Mihkihtah</p>
-<p align="center">Java / Cloud / Independent products.<br />Question assumptions. Build things. Share the process.</p>
+<p align="center"><a href="#engineering">01 — Engineering</a> &nbsp; / &nbsp; <a href="#experiments">02 — Experiments</a> &nbsp; / &nbsp; <a href="#in-the-lab">03 — In the lab</a></p>
+
+<br />
 
 <p align="center">
-  <a href="https://github.com/therenowhale?tab=repositories"><img src="img/identity/projects.svg" width="320" alt="Explore my projects ↗" /></a>
-  <a href="https://github.com/swagalabs"><img src="img/identity/labs.svg" width="320" alt="Swaga Labs ↗" /></a>
+  <a href="#engineering"><img src="img/editorial/engineering.png" width="32%" alt="Engineering — Java, Kotlin and Cloud." /></a>
+  <a href="#experiments"><img src="img/editorial/experiments.png" width="32%" alt="Experiments — Build, break and learn." /></a>
+  <a href="#in-the-lab"><img src="img/editorial/lab.png" width="32%" alt="In the lab — Products, people and ideas." /></a>
 </p>
 
-<br />
+## Engineering
 
-![Material studies — a sculpted metallic sun, orange macro textures against blue, and a retro green screen embedded in limestone.](img/identity/material-studies.png)
+![01 / Engineering — The toolkit](img/editorial/divider-engineering.png)
 
-<br />
+I build backend systems and work with cloud infrastructure. I like following a problem from application code through data, deployment and observability.
 
-![Engineering toolkit: Java 21+, Kotlin, Spring Boot, Maven and Gradle; AWS, Kubernetes, Docker, Terraform and GitHub Actions; PostgreSQL, Redis, Kafka, Prometheus and Grafana.](img/identity/toolkit.svg)
-
-<br />
-
-### SOFTWARE / EXPERIMENTS / PEOPLE
-
-<p>
-  <a href="https://github.com/swagalabs"><img src="img/identity/project-swagalabs.svg" width="49%" alt="Swaga Labs — independent products and shared curiosity." /></a>
-  <a href="https://swagalabs.github.io/murhub.docs/"><img src="img/identity/project-murhub.svg" width="49%" alt="Murhub — beauty, people and discovery." /></a>
-</p>
-
-<p align="center"><img src="img/identity/project-whale.svg" width="580" alt="There No Whale — learn in public and think for yourself. Java, practice and community." /></p>
-
-| Project | What I'm exploring |
-| :--- | :--- |
-| [Swaga Labs](https://github.com/swagalabs) | Building independent products together. |
-| [Murhub](https://swagalabs.github.io/murhub.docs/) | Connecting people with beauty professionals through their work and individual style. |
-| There No Whale | Hands-on Java learning, engineering experiments and sharing what I discover. |
-
-<br />
-
-![Conceptual systems map: Java, Kotlin and Spring applications publish Kafka events and persist data in PostgreSQL or Redis. AWS and Kubernetes provide a platform to deploy and operate applications.](img/identity/systems.svg)
-
-<br />
-
-![How I learn: Build — start with an experiment. Observe — look at what happens. Explain — understand why it works.](img/identity/learning.svg)
+![Engineering toolkit. Applications: Java 21+, Kotlin, Spring Boot, Maven and Gradle. Platform: AWS, Kubernetes, Docker, Terraform and GitHub Actions. Data and visibility: PostgreSQL, Redis, Apache Kafka, Prometheus and Grafana.](img/editorial/toolkit.png)
 
 <details>
-<summary>Behind the experiments</summary>
+<summary>Read the toolkit as text</summary>
 
-I like understanding what happens underneath an abstraction. I learn by building a small experiment, inspecting the result and explaining it in my own words.
-
-There No Whale is a place to question assumptions and learn alongside other developers. The process matters: the mistakes, the working code and the understanding that comes from both.
+- **Applications:** Java 21+, Kotlin, Spring Boot, Maven, Gradle.
+- **Platform:** AWS, Kubernetes, Docker, Terraform, GitHub Actions.
+- **Data & visibility:** PostgreSQL, Redis, Apache Kafka, Prometheus, Grafana.
 
 </details>
 
 <br />
 
-![No single authority. Keep asking why. Experiment, read the source and form your own understanding.](img/identity/manifesto.svg)
+## Experiments
+
+![02 / Experiments — The process](img/editorial/divider-experiments.png)
+
+Small experiments make abstractions tangible. Build something, inspect what happens, then explain the mechanism in your own words.
+
+![Understanding is earned by doing. 01 Build — Start with an experiment. 02 Observe — Look at what happens. 03 Explain — Understand why it works.](img/editorial/process.png)
+
+<p align="center"><img src="img/editorial/deco.png" width="180" alt="" /></p>
+
+## In the lab
+
+![03 / In the lab — Selected projects](img/editorial/divider-lab.png)
+
+### [Swaga Labs ↗](https://github.com/swagalabs)
+
+A shared space for independent products and engineering experiments. Building things together, from a first idea to working software.
+
+### [Murhub ↗](https://swagalabs.github.io/murhub.docs/)
+
+Helping people discover beauty professionals through their work and individual style. Kotlin, product engineering and a lot of questions worth testing.
+
+[API reference](https://swagalabs.github.io/murhub-api/) · [Interface explorations](https://swagalabs.github.io/murhub.docs/)
+
+### There No Whale
+
+Learning backend engineering in public: experiments, working code and lessons from the process. A place to question assumptions and learn alongside other developers.
 
 <br />
 
-![Stay curious. Make things. — There No Whale](img/identity/footer.svg)
+![Decorative blue waterline](img/editorial/waterline.png)
+
+![Question assumptions. Build things. Share the process. @therenowhale / Mihkihtah](img/editorial/colophon.png)
