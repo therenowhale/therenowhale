@@ -12,14 +12,14 @@ The layout follows a magazine: masthead, cover, navigation, three feature cards,
 
 | Files | Purpose |
 | --- | --- |
-| `cover.png` | Profile cover |
+| `cover-provocation.png` | Active orange profile cover; previous cover retained as artwork |
 | `engineering.png`, `experiments.png`, `lab.png` | Linked feature cards |
 | `compact-*.png` | Active compact linked project cards |
 | `project-*.png` | Archived wide project artwork, no longer displayed |
 | `deco.png` | Transparent decorative starburst |
 | `button-*.png` | Source code, Swaga Labs, Murhub navigation |
 | `divider-*.png` | Section numbering and labels |
-| `masthead.png`, `colophon.png` | Editorial framing |
+| `masthead-orange.png`, `colophon.png` | Editorial framing |
 | `toolkit.png`, `process.png` | Precise informational graphics |
 
 The five artwork assets were created with image generation. The other PNGs contain precisely typeset information and can be rebuilt on macOS from the repository root:
@@ -29,3 +29,5 @@ swift -module-cache-path /tmp/therenowhale-swift-cache design/build_editorial.sw
 ```
 
 All profile assets are local PNG files. No external image services, scripts, custom CSS or GitHub-unsupported layout features are required. The toolkit is descriptive; it does not assign skill scores. Existing real project links are retained.
+
+The active cover uses the provocative editorial line “YOUR GURU IS GUESSING TOO.” Resource links under Murhub use matching compact PNG buttons.

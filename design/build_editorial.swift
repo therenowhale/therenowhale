@@ -29,7 +29,7 @@ for (name,label,n) in [("button-code","SOURCE CODE","01"),("button-labs","SWAGA 
         line(24,20,552,ink)
     }
 }
-canvas("masthead",1400,100,ivory) {
+canvas("masthead-orange",1400,100,orange) {
     text("THERE NO WHALE",28,40,22,ink,bold:true);text("INDEPENDENT ENGINEERING JOURNAL",365,42,16,ink)
     text("BY MIHKIHTAH",1160,42,16,ink);line(28,23,1344,ink)
 }
@@ -78,6 +78,13 @@ for (name,title,caption,index) in [
         text(title,150,86,32,ivory,bold:true)
         text(caption,150,43,21,NSColor(white:0.69,alpha:1))
         text("↗",928,58,32,orange)
+    }
+}
+for (name,label,index) in [("compact-api","API reference","01"),("compact-ui","Explore the UI","02")] {
+    canvas(name,420,76,ink) {
+        let border = NSBezierPath(rect:NSRect(x:0.5,y:0.5,width:419,height:75));NSColor(white:0.22,alpha:1).setStroke();border.lineWidth=1;border.stroke()
+        rect(0,0,2,76,orange);text(index,20,29,12,orange)
+        text(label,57,25,22,ivory,bold:true);text("↗",370,23,25,orange)
     }
 }
 print("Exported editorial PNG controls and infographics.")

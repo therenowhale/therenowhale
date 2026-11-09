@@ -1,6 +1,6 @@
-<p align="center"><img src="img/editorial/masthead.png" width="1400" alt="There No Whale — Independent Engineering Journal. By Mihkihtah." /></p>
+<p align="center"><img src="img/editorial/masthead-orange.png" width="1400" alt="There No Whale — Independent Engineering Journal. By Mihkihtah." /></p>
 
-<p align="center"><img src="img/editorial/cover.png" width="1400" alt="@therenowhale — gothic lettering, a sculpted sun, ice and water. Independent engineering with a creative point of view." /></p>
+<p align="center"><img src="img/editorial/cover-provocation.png" width="1400" alt="Your guru is guessing too. @therenowhale — independent thinking and engineering." /></p>
 
 <p align="center"><strong>Java / Kotlin / Cloud</strong><br />Independent products. Hands-on experiments. Thinking for yourself.</p>
 
@@ -54,7 +54,8 @@ Small experiments make abstractions tangible. Build something, inspect what happ
 </p>
 <p align="center">
   <a href="https://swagalabs.github.io/murhub.docs/"><img src="img/editorial/compact-murhub.png" width="760" alt="Murhub — discover beauty professionals through their work." /></a><br />
-  <a href="https://swagalabs.github.io/murhub-api/">API reference ↗</a> &nbsp; · &nbsp; <a href="https://swagalabs.github.io/murhub.docs/">Explore the UI ↗</a>
+  <a href="https://swagalabs.github.io/murhub-api/"><img src="img/editorial/compact-api.png" width="240" alt="Murhub API reference ↗" /></a>
+  <a href="https://swagalabs.github.io/murhub.docs/"><img src="img/editorial/compact-ui.png" width="240" alt="Explore the Murhub UI ↗" /></a>
 </p>
 <p align="center">
   <a href="https://github.com/therenowhale?tab=repositories"><img src="img/editorial/compact-whale.png" width="760" alt="There No Whale — backend experiments. Learn, build and share." /></a>
